@@ -1,0 +1,29 @@
+# Binaries
+*.exe
+double-agent-pc
+
+# Go
+pc/go.sum
+
+# Build artifacts
+build/
+android/app/build/
+android/.gradle/
+android/local.properties
+
+# Local tools (install system-wide)
+.local/
+
+# Android SDK (install system-wide)
+android-sdk/
+
+# Test files
+*.h264
+*.raw
+*.mp4
+/tmp/
+
+# IDE
+.idea/
+*.iml
+.vscode/
